@@ -1,0 +1,24 @@
+{
+  "name": "listarautomoveisfunction",
+  "version": "1.0.0",
+  "description": "Function para listar os automóveis do firestore do google cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/edg-dev/listarautomoveisfunction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/edg-dev/listarautomoveisfunction/issues"
+  },
+  "homepage": "https://gitlab.com/edg-dev/listarautomoveisfunction#readme",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.4.0"
+  }
+}
